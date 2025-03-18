@@ -1,0 +1,1 @@
+print("Yo soy Iro Man   "+"genio, millonario, playboy, filántropo")
